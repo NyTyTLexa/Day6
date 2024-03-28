@@ -1,0 +1,6 @@
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+J:\25.03.2024\Day5\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
